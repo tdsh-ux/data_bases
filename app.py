@@ -55,7 +55,7 @@ app.layout = html.Div(style=styles['container'], children=[
             stylesheet=stylesheet,
             style=styles['cytoscape'],
             layout={
-                'name': 'circle',
+                'name': 'random',
                 'idealEdgeLength': 100,
                 'nodeOverlap': 20,
                 'refresh': 20,
