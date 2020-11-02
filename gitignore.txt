@@ -5,3 +5,4 @@ __pycache__/*
 dump/*
 data_csv/*
 data.ipynb
+data.__pycache__
