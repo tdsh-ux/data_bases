@@ -64,7 +64,7 @@ app.layout = html.Div(style=styles['container'], children=[
                 'randomize': False,
                 'componentSpacing': 100,
                 'nodeRepulsion': 400000,
-                'edgeElasticity': 100,
+                'edgeElasticity': 50,
                 'nestingFactor': 5,
                 'gravity': 80,
                 'numIter': 1000,
