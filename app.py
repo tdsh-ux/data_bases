@@ -50,17 +50,17 @@ app.layout = html.Div(style=styles['container'], children=[
     ]),
     html.Div(className='cy-container', style=styles['cy-container'], children=[
         cyto.Cytoscape(
-            id='random',
+            id='cytoscape',
             elements=data['elements'],
             stylesheet=stylesheet,
             style=styles['cytoscape'],
             layout={
-                'name': 'breadthfirst',
+                'name': 'concentric',
                 'idealEdgeLength': 100,
                 'nodeOverlap': 20,
                 'refresh': 20,
                 'fit': True,
-                'padding': 30,
+                'padding': 40,
                 'randomize': False,
                 'componentSpacing': 100,
                 'nodeRepulsion': 400000,
