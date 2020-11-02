@@ -57,7 +57,7 @@ app.layout = html.Div(style=styles['container'], children=[
             layout={
                 'name': 'cose',
                 'idealEdgeLength': 100,
-                'nodeOverlap': 1,
+                'nodeOverlap': 10,
                 'refresh': 20,
                 'fit': True,
                 'padding': 200,
