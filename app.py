@@ -63,7 +63,7 @@ app.layout = html.Div(style=styles['container'], children=[
                 'padding': 200,
                 'randomize': False,
                 'componentSpacing': 100,
-                'nodeRepulsion': 400000,
+                'nodeRepulsion': 4000000,
                 'edgeElasticity': 50,
                 'nestingFactor': 5,
                 'gravity': 80,
@@ -71,7 +71,7 @@ app.layout = html.Div(style=styles['container'], children=[
                 'initialTemp': 200,
                 'coolingFactor': 0.95,
                 'minTemp': 1.0,
-                'minNodeSpacing': 30
+                'minNodeSpacing': 100
             },
             responsive=True
         )
