@@ -4,7 +4,7 @@
     "height": 40,
     "width": 40,
     "background-color": "data(color)",
-    "label": "data(id)",
+    "content": "data(id)",
     "text-valign": "center",
     "text-halign": "left"
   }

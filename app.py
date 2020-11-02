@@ -50,7 +50,7 @@ app.layout = html.Div(style=styles['container'], children=[
     ]),
     html.Div(className='cy-container', style=styles['cy-container'], children=[
         cyto.Cytoscape(
-            id='cytoscape',
+            id='random',
             elements=data['elements'],
             stylesheet=stylesheet,
             style=styles['cytoscape'],
