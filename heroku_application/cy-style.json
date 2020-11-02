@@ -6,7 +6,8 @@
     "background-color": "data(color)",
     "content": "data(id)",
     "text-valign": "center",
-    "text-halign": "left"
+    "text-halign": "left",
+    "labelValign": "middle"
   }
 }, {
   "selector": "edge",
