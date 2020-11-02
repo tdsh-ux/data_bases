@@ -70,7 +70,8 @@ app.layout = html.Div(style=styles['container'], children=[
                 'numIter': 1000,
                 'initialTemp': 200,
                 'coolingFactor': 0.95,
-                'minTemp': 1.0
+                'minTemp': 1.0,
+                'minNodeSpacing': 30
             },
             responsive=True
         )
