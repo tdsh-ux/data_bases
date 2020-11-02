@@ -60,7 +60,7 @@ app.layout = html.Div(style=styles['container'], children=[
                 'nodeOverlap': 20,
                 'refresh': 20,
                 'fit': True,
-                'padding': 40,
+                'padding': 100,
                 'randomize': False,
                 'componentSpacing': 100,
                 'nodeRepulsion': 400000,
