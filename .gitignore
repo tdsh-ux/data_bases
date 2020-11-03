@@ -1,0 +1,10 @@
+.vscode/*
+venv/*
+__pycache__/*
+.ipynb_checkpoints/*
+# as bases de dados 
+# dump/*
+# data_csv/* 
+# o notebook de tratamento de dados deve ser adicionado! 
+# read_data.ipynb 
+data.__pycache__
