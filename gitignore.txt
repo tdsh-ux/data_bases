@@ -1,8 +1,0 @@
-.vscode/*
-venv/*
-__pycache__/*
-.ipynb_checkpoints/*
-dump/*
-data_csv/*
-data.ipynb
-data.__pycache__
