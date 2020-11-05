@@ -1,4 +1,3 @@
-
 import json
 import dash
 import urllib.request
@@ -77,4 +76,5 @@ app.layout = html.Div(style=styles['container'], children=[
         )
     ])
 ])
+
 
