@@ -1,6 +1,6 @@
 import json
-import dash
-# import urllib.request 
+import jupyter_dash
+import urllib.request 
 import dash_core_components as dcc 
 import dash_html_components as html
 from dash.dependencies import Input, Output
@@ -15,13 +15,16 @@ import networkx as nx
 
 import plotly.express as px 
 
-# from IPython.display import Javascript 
+from IPython.display import Javascript 
+
 
 df = pd.read_csv("../data_csv/table.csv") 
 df.head() 
 
+
 df_year = pd.read_csv("../data_csv/scatter_data.csv").sort_values(by = "year") 
 df_year.head() 
+
 
 dish_names = df["name_x"] 
 options = [] 
@@ -30,6 +33,7 @@ for name in dish_names:
         "label": name, 
         "value": name 
     }) 
+
 
 def cytoscape_data(name = None, n = 128): 
     nodes = [] 
@@ -64,6 +68,7 @@ def cytoscape_data(name = None, n = 128):
     
     return {"nodes": nodes, "links": edges} 
 
+
 def get_barplot(name, type): 
     df_node = df[(df["name_x"] == name) | (df["name_y"] == name)].to_records(index = False) 
     array = [] 
@@ -91,7 +96,12 @@ def get_barplot(name, type):
     elif type == "n": 
         return sum(list(map(lambda x: x[2], array))) 
         
-app = dash.Dash(__name__) 
+
+
+# data["elements"]["edges"] 
+
+
+app = jupyter_dash.JupyterDash(__name__) 
 app.title = "Food Graph"
 server = app.server
 
@@ -108,47 +118,47 @@ with open('../heroku_application/cy-style.json') as f:
 
 # App 
 app.layout = html.Div([ 
-    html.H1("What's on the menu? Let's give a look!"), 
+    html.H1("What's on the menu? Let's give a lookget_ipython().getoutput(""), ")
     html.Div([  
     html.Div([ 
-        html.H4("A specific dish? Choose here!"), 
+        html.H4("A specific dish? Choose hereget_ipython().getoutput(""), ")
         dcc.Dropdown( 
             id = "demo-dropdown", 
-            options = [{"label": "Every food!", "value": "null"}] + options
+            options = [{"label": "Every foodget_ipython().getoutput("", "value": "null"}] + options")
         ), 
         # dcc.Graph(id = "barplot") 
-    ], style = {"width": "32%", "display": "inline-block", "float": "left"}), 
+    ], style = {"width": "32get_ipython().run_line_magic("",", " \"display\": \"inline-block\", \"float\": \"left\"}), ")
     html.Div([ 
         html.H5("Choose the quantity of nodes. (type 745 for all)"), 
         dcc.Input(id = "n", type = "number", value = 128, min = 1, max = 745, step = 1)  
-    ], style = {"width": "32%", "display": "inline-block", "float": "right"}) 
+    ], style = {"width": "32get_ipython().run_line_magic("",", " \"display\": \"inline-block\", \"float\": \"right\"}) ")
     ]), 
     html.Div(children=[ 
         nx_graph.NX(id = "cytoscape", data = cytoscape_data())  
-    ], style = {"width": "100%", "height": "100%", "float": "center"}), 
+    ], style = {"width": "100get_ipython().run_line_magic("",", " \"height\": \"100%\", \"float\": \"center\"}), ")
     html.Div([ 
         html.Div([
             dcc.Graph(id = "barplot", figure = px.bar(height = 358)) 
-        ], style = {"width": "38%", "float": "left", "display": "inline-block"}), 
+        ], style = {"width": "38get_ipython().run_line_magic("",", " \"float\": \"left\", \"display\": \"inline-block\"}), ")
         html.Div([ 
             html.Div(id = "dish"), 
             html.Div(id = "dish_plot", children = [
                 dcc.Markdown("--" * 38) 
             ]), 
             html.Div(id = "dish_year") 
-        ], style = {"width": "16%", "float": "left", "display": "inline-block", 
+        ], style = {"width": "16get_ipython().run_line_magic("",", " \"float\": \"left\", \"display\": \"inline-block\", ")
                     "margin-top": 49, "font-family": "Serif", "font-size": 25, "text-align": "center"}), 
         html.Div([
             dcc.Graph(id = "lineplot", figure = px.line(height = 358)) 
-        ], style = {"width": "38%", "float": "left", "display": "inline-block"}), 
-    ], style = {"width": "100%", "height": "34%"}), 
+        ], style = {"width": "38get_ipython().run_line_magic("",", " \"float\": \"left\", \"display\": \"inline-block\"}), ")
+    ], style = {"width": "100get_ipython().run_line_magic("",", " \"height\": \"34%\"}), ")
 ])
 
 @app.callback(Output(component_id = "cytoscape", component_property = "data"), 
              [Input(component_id = "demo-dropdown", component_property = "value"), 
              Input(component_id = "n", component_property = "value")])   
 def display_graph(value, n): 
-    if value is not None and value != "null": 
+    if value is not None and value get_ipython().getoutput("= "null": ")
         return cytoscape_data(name = value, n = 745) 
     else: 
         return cytoscape_data(n = n)     
@@ -183,19 +193,22 @@ def display_lineplot(node):
              [Input(component_id = "cytoscape", component_property = "tapNode")]) 
 def display_text(node): 
     if node is None: 
-        return "Select a node!" 
+        return "Select a nodeget_ipython().getoutput("" ")
     else: 
-        return "That's the dish you choose: {dish}. I love it!".format(dish = node["name"])   
+        return "That's the dish you choose: {dish}. I love itget_ipython().getoutput("".format(dish = node["name"])   ")
 
 
 @app.callback(Output(component_id = "dish_year", component_property = "children"), 
              [Input(component_id = "cytoscape", component_property = "tapNode")]) 
 def display_dish_text(node): 
     if node is None: 
-        return "A blue node!" 
+        return "A blue nodeget_ipython().getoutput("" ")
     else: 
         n = get_barplot(name = node["name"], type = "n") 
-        return "It appears on {n} menu{s}!".format(n = n, s = "" if n <= 1 else "s")   
+        return "It appears on {n} menu{s}get_ipython().getoutput("".format(n = n, s = "" if n <= 1 else "s")   ")
  
 if __name__ == "__main__": 
-    app.run_server(debug = True,  port = 9999)   
+    app.run_server(debug = True,  port = 9999, mode = "jupyterlab")   
+
+
+

@@ -1,6 +1,6 @@
 import json
 import dash
-import urllib.request 
+# import urllib.request 
 import dash_core_components as dcc 
 import dash_html_components as html
 from dash.dependencies import Input, Output
