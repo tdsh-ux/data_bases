@@ -1,0 +1,407 @@
+name_x,name_y,count
+scrambled eggs,salt mackerel,39
+congress water,scotch whiskey,35
+scrambled eggs,congress water,26
+cracked wheat,scrambled eggs,21
+congress water,nuits burgundy,19
+cracked wheat,salt mackerel,18
+congress water,"gin, plymouth",18
+salt mackerel,"omelet, plain",17
+salt mackerel,congress water,13
+salt mackerel,deviled crabs,10
+scotch whiskey,nuits burgundy,9
+scrambled eggs,broiled salmon,9
+congress water,"lager, pilsener",9
+congress water,chicken halibut,8
+salt mackerel,codfish balls,8
+congress water,old jamaica rum,7
+salt mackerel,broiled salmon,7
+congress water,burgundy nuits,7
+scrambled eggs,"omelet, plain",7
+scrambled eggs,nuits burgundy,6
+congress water,"omelet, plain",6
+congress water,prunelle brandy,5
+congress water,anheuser-busch,5
+congress water,deviled crabs,5
+salt mackerel,chicken halibut,5
+scrambled eggs,deviled crabs,5
+"gin, plymouth","lager, pilsener",5
+chicken halibut,deviled crabs,5
+salt mackerel,old jamaica rum,5
+scrambled eggs,fried haddock,5
+scrambled eggs,french crullers,5
+fried haddock,french crullers,5
+chicken halibut,prunelle brandy,4
+maryland club,chicken halibut,4
+congress water,"salad, chicken",4
+congress water,maryland club,4
+maryland club,prunelle brandy,4
+scrambled eggs,codfish balls,4
+"figs, in syrup",iced cucumbers,4
+scrambled eggs,scotch whiskey,4
+salt mackerel,eggs with bacon,4
+salt mackerel,scotch whiskey,4
+cracked wheat,broiled salmon,4
+"omelet, plain",deviled crabs,4
+old jamaica rum,deviled crabs,4
+chicken halibut,"salad, chicken",3
+chicken halibut,virginia bacon,3
+cracked wheat,codfish balls,3
+congress water,bromo seltzer,3
+scrambled eggs,boneless bacon,3
+"salad, chicken",deviled crabs,3
+italian salad,cold consomme,3
+salt mackerel,"chicken, half",3
+"omelet, plain",chicken halibut,3
+"chicken, half",pieds de porc,3
+codfish balls,boneless bacon,3
+salt mackerel,"oatmeal, plain",3
+italian salad,english stilton,3
+deviled crabs,broiled salmon,3
+salt mackerel,pilsener beer,3
+cracked wheat,potatoes fried,3
+congress water,lemp's st louis,3
+salt mackerel,"gin, plymouth",3
+salt mackerel,"gin, burnett's",3
+scotch whiskey,"gin, plymouth",3
+scotch whiskey,"gin, burnett's",3
+"gin, plymouth","gin, burnett's",3
+congress water,"gin, burnett's",3
+congress water,tarte de peche,2
+"salad, chicken",prunelle brandy,2
+virginia bacon,prunelle brandy,2
+congress water,virginia bacon,2
+maryland club,"salad, chicken",2
+maryland club,virginia bacon,2
+chicken halibut,panachee salad,2
+panachee salad,prunelle brandy,2
+congress water,panachee salad,2
+maryland club,panachee salad,2
+"omelet, plain",bromo seltzer,2
+salt mackerel,tomato chutney,2
+salt mackerel,anheuser busch,2
+chicken halibut,anisette white,2
+chicken halibut,"curacoa, orange",2
+congress water,anisette white,2
+congress water,"curacoa, orange",2
+"curacoa, orange",anisette white,2
+congress water,sherry golden,2
+scrambled eggs,indian muffins,2
+salt mackerel,indian muffins,2
+english walnuts,new egg plant,2
+cold consomme,broiled salmon,2
+chicken halibut,blue bill duck,2
+salt mackerel,blue bill duck,2
+"omelet, plain","chicken, half",2
+english walnuts,chicken halibut,2
+english walnuts,salt mackerel,2
+corn on the cob,potatoes bussac,2
+congress water,bacon with eggs,2
+codfish balls,pieds de porc,2
+codfish balls,"chicken, half",2
+scrambled eggs,blackberry pie,2
+cold consomme,english stilton,2
+english walnuts,kisses en pomme,2
+french mustard,iced cucumbers,2
+english walnuts,pommes chateau,2
+broiled salmon,eggs with bacon,2
+schweizer käse,pflaumen-torte,2
+salt mackerel,fried (2 eggs),2
+"omelet, plain",french potatoes,2
+salt mackerel,small beefsteak,2
+salt mackerel,potatoes fried,2
+codfish balls,broiled salmon,2
+broiled salmon,"beef tea, cup",2
+english walnuts,broiled salmon,2
+english walnuts,"beef tea, cup",2
+cracked wheat,chicken halibut,2
+italian salad,coffee parfait,2
+small beefsteak,"chambertin, '92",2
+"beef tea, cup",orange eclairs,2
+scrambled eggs,regular supper,2
+"omelet, plain","salad, chicken",2
+"chicken, half",broiled salmon,2
+scrambled eggs,for ladies' and,2
+codfish balls,"tripe, special",2
+salt mackerel,"tripe, special",2
+deviled crabs,half partridge,2
+old jamaica rum,chicken halibut,2
+old jamaica rum,half partridge,2
+congress water,half partridge,2
+old jamaica rum,"omelet, plain",2
+congress water,salad-beetroot,1
+congress water,cheesecheshire,1
+salad-beetroot,cheesecheshire,1
+"pommard, 1889",deviled crabs,1
+cracked wheat,potatoes-fried,1
+salt mackerel,potatoes-fried,1
+boneless bacon,fried haddock,1
+vichy (syphon),"curacoa, orange",1
+congress water,sherry: golden,1
+tarte de peche,sherry: golden,1
+"salad, chicken",virginia bacon,1
+congress water,cheese stilton,1
+potatoes- fried,lobster salad,1
+deviled crabs,lobster stuffed,1
+salt mackerel,lobster stuffed,1
+salt mackerel,"eggs, boiled 2",1
+salt mackerel,bromo seltzer,1
+anheuser busch,bromo seltzer,1
+scrambled eggs,soup: split pea,1
+"gin, plymouth",anheuser-busch,1
+scrambled eggs,iced cucumbers,1
+scrambled eggs,"figs, in syrup",1
+cold consomme,salted pecans,1
+english walnuts,french mustard,1
+french mustard,eggs with bacon,1
+french mustard,omelette glace,1
+english walnuts,eggs with bacon,1
+english walnuts,omelette glace,1
+english walnuts,congress water,1
+eggs with bacon,omelette glace,1
+congress water,french mustard,1
+congress water,eggs with bacon,1
+congress water,omelette glace,1
+english walnuts,corn on the cob,1
+"omelet, plain",2 eggs boiled,1
+scrambled eggs,cold consomme,1
+chicken halibut,"chicken, half",1
+chicken halibut,"club, sandwich",1
+salt mackerel,"club, sandwich",1
+"chicken, half",blue bill duck,1
+"chicken, half","club, sandwich",1
+english walnuts,"chicken, half",1
+blue bill duck,"club, sandwich",1
+"omelet, plain",blue bill duck,1
+"omelet, plain","club, sandwich",1
+english walnuts,blue bill duck,1
+english walnuts,"omelet, plain",1
+english walnuts,"club, sandwich",1
+congress water,"preserves, 20",1
+congress water,"water crackers,",1
+"preserves, 20","water crackers,",1
+congress water,omelets-plain,1
+bacon with eggs,omelets-plain,1
+pieds de porc,salade tomate,1
+"chicken, half",salade tomate,1
+codfish balls,salade tomate,1
+scrambled eggs,"oatmeal, plain",1
+deviled crabs,sliced tomatoe,1
+deviled crabs,plate shrimps,1
+sliced tomatoe,plate shrimps,1
+codfish balls,potatoes fried,1
+club saucisses,pieds de porc,1
+salt mackerel,club saucisses,1
+salt mackerel,pieds de porc,1
+scrambled eggs,club saucisses,1
+scrambled eggs,pieds de porc,1
+salt mackerel,eier auf wunsch,1
+congress water,honiny fritters,1
+assmannshaeuser,laubenheimber,1
+panachee salad,virginia bacon,1
+"salad, chicken",cheese english,1
+"salad, chicken",eggs with bacon,1
+bromo seltzer,"salad, chicken",1
+"gin, plymouth","liqueres, green",1
+congress water,"liqueres, green",1
+scrambled eggs,eggs with bacon,1
+potatoes fried,blackberry tart,1
+congress water,early june peas,1
+"chicken, half","oatmeal, plain",1
+congress water,duchesse cakes,1
+scrambled eggs,fresh veg salad,1
+scrambled eggs,salted pecans,1
+salted pecans,fresh veg salad,1
+"omelet, plain",bacon with eggs,1
+lobster stuffed,squab in jelly,1
+"salad, chicken",lemp's st louis,1
+salt mackerel,scrambled eggs,1
+scrambled eggs,fried (2 eggs),1
+"omelet, plain",eggs with bacon,1
+panachee salad,french crullers,1
+salt mackerel,omelets-plain,1
+codfish balls,omelets-plain,1
+salt mackerel,nuits burgundy,1
+scotch whiskey,deviled crabs,1
+scrambled eggs,bacon with eggs,1
+schweizer käse,roulade of pork,1
+broiled salmon,a la meyerbeer,1
+salt mackerel,a la meyerbeer,1
+congress water,potato crispets,1
+burgundy nuits,tarte de peche,1
+blackberry pie,iced cucumbers,1
+congress water,escarolle salad,1
+scrambled eggs,burgundy nuits,1
+scotch whiskey,burgundy nuits,1
+blackberry pie,deviled crabs,1
+"figs, in syrup",deviled crabs,1
+congress water,apple tartlets,1
+"omelet, plain",toasted muffins,1
+toasted muffins,french potatoes,1
+congress water,toasted muffins,1
+congress water,french potatoes,1
+congress water,"lager, pilsner",1
+broiled salmon,batavia arrac,1
+small beefsteak,eggs with bacon,1
+small beefsteak,"cream, goblet",1
+broiled salmon,small beefsteak,1
+broiled salmon,"cream, goblet",1
+salt mackerel,"cream, goblet",1
+eggs with bacon,"cream, goblet",1
+cider per quart,imperial spring,1
+cider per quart,"perrier, jouet",1
+imperial spring,"perrier, jouet",1
+maryland club,cider per quart,1
+maryland club,imperial spring,1
+maryland club,"perrier, jouet",1
+scotch whiskey,cider per quart,1
+scotch whiskey,imperial spring,1
+scotch whiskey,"perrier, jouet",1
+scotch whiskey,maryland club,1
+"omelet, plain",pommery - sec,1
+chicken halibut,broiled salmon,1
+chicken halibut,"beef tea, cup",1
+codfish balls,chicken halibut,1
+codfish balls,"beef tea, cup",1
+salt mackerel,"beef tea, cup",1
+chicken halibut,"eggs fried, two",1
+codfish balls,"eggs fried, two",1
+salt mackerel,"eggs fried, two",1
+broiled salmon,"eggs fried, two",1
+english walnuts,codfish balls,1
+"eggs fried, two","beef tea, cup",1
+cracked wheat,"beef tea, cup",1
+english walnuts,"eggs fried, two",1
+english walnuts,cracked wheat,1
+cracked wheat,"eggs fried, two",1
+cracked wheat,"oatmeal, plain",1
+"oatmeal, plain","gin, plymouth",1
+"oatmeal, plain","gin, burnett's",1
+cracked wheat,scotch whiskey,1
+cracked wheat,"gin, plymouth",1
+cracked wheat,"gin, burnett's",1
+cracked wheat,congress water,1
+codfish balls,"oatmeal, plain",1
+broiled salmon,"oatmeal, plain",1
+codfish balls,scotch whiskey,1
+codfish balls,"gin, plymouth",1
+codfish balls,"gin, burnett's",1
+broiled salmon,"gin, plymouth",1
+broiled salmon,"gin, burnett's",1
+scotch whiskey,"oatmeal, plain",1
+congress water,"oatmeal, plain",1
+scotch whiskey,broiled salmon,1
+congress water,codfish balls,1
+congress water,broiled salmon,1
+italian salad,"huitres, frites",1
+english stilton,"huitres, frites",1
+coffee parfait,"huitres, frites",1
+english stilton,coffee parfait,1
+salt mackerel,"carbonic, glass",1
+chicken halibut,"carbonic, glass",1
+deviled crabs,"carbonic, glass",1
+salt mackerel,club sandwich,1
+old jamaica rum,pilsener beer,1
+salt mackerel,cutter's whisky,1
+"omelet, plain",cutter's whisky,1
+small beefsteak,guinea hen ro b,1
+"chambertin, '92",guinea hen ro b,1
+scotch whiskey,guinea hen ro b,1
+scotch whiskey,small beefsteak,1
+scotch whiskey,"chambertin, '92",1
+chicken halibut,a la espagnole,1
+virginia bacon,a la espagnole,1
+narbonne honey,cerealine cakes,1
+deviled crabs,vichy (syphon),1
+"salad, chicken",vichy (syphon),1
+scrambled eggs,"salad, chicken",1
+scrambled eggs,vichy (syphon),1
+"omelet, plain",vichy (syphon),1
+tomato chutney,quintard stew,1
+salt mackerel,quintard stew,1
+italian salad,raspberry jelly,1
+scrambled eggs,boiled haddock,1
+scrambled eggs,cramberry tart,1
+fried haddock,boiled haddock,1
+french crullers,boiled haddock,1
+boiled haddock,cramberry tart,1
+fried haddock,cramberry tart,1
+french crullers,cramberry tart,1
+congress water,stafford water,1
+scrambled eggs,clam pan roast,1
+potatoes fried,"gin, plymouth",1
+potatoes fried,"gin, burnett's",1
+scotch whiskey,potatoes fried,1
+congress water,potatoes fried,1
+raspail-combier,imp amontillado,1
+calisaya bark,raspail-combier,1
+calisaya bark,imp amontillado,1
+salt mackerel,broma per pot,1
+eggs with bacon,broma per pot,1
+cracked wheat,eggs with bacon,1
+cracked wheat,broma per pot,1
+salt mackerel,bacon with eggs,1
+congress water,pommes chateau,1
+codfish balls,"omelet, plain",1
+salt mackerel,chateau lafitte,1
+codfish balls,chateau lafitte,1
+"omelet, plain",chateau lafitte,1
+english walnuts,celery salade,1
+scrambled eggs,"rice, home made",1
+fried haddock,"rice, home made",1
+french crullers,"rice, home made",1
+"omelet, plain",potatoes fried,1
+"omelet, plain",la poule au riz,1
+potatoes fried,la poule au riz,1
+burgundy nuits,sherry golden,1
+cold consomme,chateau margauz,1
+cold consomme,"claret, punch",1
+cold consomme,julip or flip,1
+anheuser busch,cold consomme,1
+chateau margauz,"claret, punch",1
+chateau margauz,julip or flip,1
+anheuser busch,chateau margauz,1
+anheuser busch,"claret, punch",1
+anheuser busch,julip or flip,1
+"claret, punch",julip or flip,1
+scotch whiskey,cold consomme,1
+salt mackerel,creme of cocao,1
+"chicken, half",creme of cocao,1
+salt mackerel,peach tapioca,1
+"omelet, plain",peach tapioca,1
+broiled salmon,potatoes fried,1
+scrambled eggs,potatoes fried,1
+salt mackerel,"prunes, stewed",1
+"omelet, plain",broiled salmon,1
+"beef tea, cup",pears preserved,1
+"beef tea, cup",tomato chutney,1
+broiled salmon,pears preserved,1
+broiled salmon,tomato chutney,1
+scrambled eggs,"beef tea, cup",1
+scrambled eggs,pears preserved,1
+scrambled eggs,tomato chutney,1
+english walnuts,scrambled eggs,1
+english walnuts,pears preserved,1
+tomato chutney,pears preserved,1
+english walnuts,tomato chutney,1
+scrambled eggs,bromo seltzer,1
+"salad, chicken",cold consomme,1
+broiled salmon,un americaine,1
+italian salad,un americaine,1
+coffee parfait,un americaine,1
+broiled salmon,coffee parfait,1
+italian salad,broiled salmon,1
+cracked wheat,"omelet, plain",1
+"chicken, half",ox-joint soup,1
+congress water,ox-joint soup,1
+congress water,"chicken, half",1
+salt mackerel,french crullers,1
+salt mackerel,fried haddock,1
+"omelet, plain",anheuser busch,1
+salt mackerel,french potatoes,1
+chicken halibut,half partridge,1
+salt mackerel,half partridge,1
+"omelet, plain",half partridge,1
+french potatoes,"gin, per glass",1
+"omelet, plain","gin, per glass",1
+english walnuts,english stilton,1

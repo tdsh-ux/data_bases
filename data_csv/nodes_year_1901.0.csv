@@ -1,0 +1,235 @@
+name_x,name_y,count
+scrambled eggs,salt mackerel,29
+cracked wheat,scrambled eggs,11
+salt mackerel,"omelet, plain",10
+congress water,"gin, plymouth",10
+"omelet, plain","salad, chicken",7
+congress water,"omelet, plain",7
+salt mackerel,congress water,6
+scrambled eggs,codfish balls,6
+"salad, chicken","prunes, stewed",6
+"omelet, plain","prunes, stewed",6
+congress water,"lager, pilsener",6
+"gin, plymouth","lager, pilsener",6
+cracked wheat,salt mackerel,5
+salt mackerel,deviled crabs,5
+congress water,deviled crabs,5
+congress water,"salad, chicken",5
+congress water,"prunes, stewed",5
+salt mackerel,bremer zwieback,5
+codfish balls,"omelet, plain",4
+scrambled eggs,broiled salmon,4
+"omelet, plain",scotch whiskey,4
+"prunes, stewed","biscuit, pilot",4
+"omelet, plain","biscuit, pilot",4
+"salad, chicken","biscuit, pilot",4
+scrambled eggs,"omelet, plain",4
+cracked wheat,"omelet, plain",3
+scrambled eggs,deviled crabs,3
+scrambled eggs,congress water,3
+cracked wheat,broiled salmon,3
+cold consomme,unsalted butter,3
+cold consomme,deviled crabs,3
+cold consomme,corn on the cob,3
+salt mackerel,cold consomme,3
+salt mackerel,unsalted butter,3
+salt mackerel,corn on the cob,3
+deviled crabs,unsalted butter,3
+deviled crabs,corn on the cob,3
+corn on the cob,unsalted butter,3
+congress water,cold consomme,3
+congress water,unsalted butter,3
+congress water,corn on the cob,3
+italian salad,schweizer käse,3
+small beefsteak,batavia arrac,3
+scrambled eggs,scotch whiskey,3
+"prunes, stewed","deities, no 3",3
+"omelet, plain","deities, no 3",3
+"salad, chicken","deities, no 3",3
+congress water,"biscuit, pilot",3
+schweizer käse,russ sardines,3
+"omelet, plain",calisaya bark,2
+codfish balls,italian salad,2
+"omelet, plain",italian salad,2
+broiled salmon,potatoes fried,2
+"omelet, plain",assmannshaeuser,2
+english walnuts,"omelet, plain",2
+"omelet, plain",maryland club,2
+english walnuts,old jamaica rum,2
+old jamaica rum,"omelet, plain",2
+"omelet, plain",lemp's st louis,2
+"omelet, plain","beef tea, cup",2
+cracked wheat,"salad, chicken",2
+scotch whiskey,woodford club,2
+english walnuts,deviled crabs,2
+salt mackerel,blackberry pie,2
+cracked wheat,"beef tea, cup",2
+blackberry pie,"omelet, plain",2
+"omelet, plain",bacon with eggs,2
+"biscuit, pilot","deities, no 3",2
+congress water,"deities, no 3",2
+english walnuts,cold consomme,2
+congress water,bromo seltzer,2
+cold consomme,capri (white),2
+unsalted butter,capri (white),2
+salt mackerel,capri (white),2
+deviled crabs,capri (white),2
+corn on the cob,capri (white),2
+congress water,capri (white),2
+salt mackerel,early june peas,2
+"omelet, plain",early june peas,2
+scrambled eggs,bremer zwieback,2
+russ sardines,sardinen ioel,2
+scrambled eggs,bacon with eggs,2
+bacon with eggs,russ sardines,2
+salt mackerel,calisaya bark,1
+scotch whiskey,hathorn waters,1
+cracked wheat,potatoes fried,1
+scrambled eggs,potatoes fried,1
+lobster stuffed,onions boiled,1
+potatoes fried,lobster stuffed,1
+potatoes fried,onions boiled,1
+english walnuts,scotch whiskey,1
+english walnuts,maryland club,1
+scotch whiskey,maryland club,1
+old jamaica rum,scotch whiskey,1
+old jamaica rum,maryland club,1
+salt mackerel,"eggs fried, two",1
+"omelet, plain","eggs fried, two",1
+"omelet, plain",st julien medoc,1
+scotch whiskey,st julien medoc,1
+"salad, chicken",corn on the cob,1
+"omelet, plain",small beefsteak,1
+"omelet, plain",batavia arrac,1
+calisaya bark,"beef tea, cup",1
+scrambled eggs,anheuser busch,1
+cracked wheat,roast on toast,1
+roast on toast,scrambled eggs,1
+"salad, italian",pineapple ice,1
+"salad, italian",broma per pot,1
+"salad, chicken","salad, italian",1
+"salad, chicken",pineapple ice,1
+"salad, chicken",broma per pot,1
+broma per pot,pineapple ice,1
+cracked wheat,"salad, italian",1
+cracked wheat,pineapple ice,1
+cracked wheat,broma per pot,1
+scrambled eggs,"salad, italian",1
+scrambled eggs,"salad, chicken",1
+scrambled eggs,pineapple ice,1
+scrambled eggs,broma per pot,1
+scrambled eggs,saint emilion,1
+scrambled eggs,chateau lafitte,1
+scrambled eggs,woodford club,1
+chateau lafitte,saint emilion,1
+chateau lafitte,woodford club,1
+scotch whiskey,saint emilion,1
+scotch whiskey,chateau lafitte,1
+woodford club,saint emilion,1
+blackberry pie,cold: pigs feet,1
+salt mackerel,"beef tea, cup",1
+salt mackerel,"salad, chicken",1
+blackberry pie,"beef tea, cup",1
+"salad, chicken","beef tea, cup",1
+blackberry pie,"salad, chicken",1
+cracked wheat,blackberry pie,1
+vienna zwieback,dry or buttered,1
+salt mackerel,gebrat porgies,1
+nuits burgundy,ox-joint soup,1
+lobster stuffed,rum: st croix,1
+congress water,lobster stuffed,1
+congress water,rum: st croix,1
+salt mackerel,maryland club,1
+salt mackerel,mcmullen s ale,1
+"omelet, plain",mcmullen s ale,1
+maryland club,mcmullen s ale,1
+potatoes fried,lemp's st louis,1
+"omelet, plain",potatoes fried,1
+english walnuts,"salad, chicken",1
+schweizer käse,"salad, italian",1
+salt mackerel,egg nogg glass,1
+salt mackerel,sloe gin glass,1
+"omelet, plain",egg nogg glass,1
+"omelet, plain",sloe gin glass,1
+egg nogg glass,sloe gin glass,1
+congress water,early june peas,1
+à l'indienne,woodford club,1
+scotch whiskey,à l'indienne,1
+scotch whiskey,broiled salmon,1
+scrambled eggs,hot corn bread,1
+raspberry jelly,stewed squash,1
+raspberry jelly,"stridge beans,",1
+schweizer käse,gebackene leber,1
+schweizer käse,sardinen ioel,1
+scrambled eggs,stewed rhubarb,1
+buttered toast,stewed rhubarb,1
+scrambled eggs,buttered toast,1
+english walnuts,potatoes fried,1
+scrambled eggs,cold consomme,1
+scrambled eggs,unsalted butter,1
+scrambled eggs,corn on the cob,1
+scrambled eggs,capri (white),1
+salt mackerel,"cocktails, etc",1
+scrambled eggs,"cocktails, etc",1
+scotch whiskey,bacon with eggs,1
+salt mackerel,scotch whiskey,1
+salt mackerel,bacon with eggs,1
+blackberry pie,toast custard,1
+blackberry pie,salted pecans,1
+passion fruit,raspberry jelly,1
+schweizer käse,lobster-salad,1
+schweizer käse,flockiger reis,1
+schweizer käse,bacon with eggs,1
+bacon with eggs,flockiger reis,1
+russ sardines,flockiger reis,1
+cracked wheat,passion fruit,1
+congress water,apollinaris qts,1
+"lager, pilsener",apollinaris qts,1
+"gin, plymouth",apollinaris qts,1
+scrambled eggs,omelette diaz,1
+"chicken, half",omelet souffle,1
+broiled salmon,omelet souffle,1
+"chicken, half",broiled salmon,1
+"salad, chicken",mexican frijoes,1
+congress water,gateau st louis,1
+"lager, pilsener",gateau st louis,1
+"gin, plymouth",gateau st louis,1
+congress water,codfish balls,1
+gateau domino,molasses candy,1
+stuffed chicken,jelly au cognac,1
+cracked wheat,codfish balls,1
+salt mackerel,codfish balls,1
+salt mackerel,clams omelette,1
+scrambled eggs,clams omelette,1
+italian salad,potatoes fried,1
+broiled salmon,"beef tea, cup",1
+broiled salmon,eggs with bacon,1
+broiled salmon,baker's broma,1
+"beef tea, cup",baker's broma,1
+eggs with bacon,"beef tea, cup",1
+scrambled eggs,"beef tea, cup",1
+english walnuts,broiled salmon,1
+english walnuts,"beef tea, cup",1
+eggs with bacon,baker's broma,1
+scrambled eggs,eggs with bacon,1
+scrambled eggs,baker's broma,1
+cracked wheat,eggs with bacon,1
+cracked wheat,baker's broma,1
+english walnuts,eggs with bacon,1
+english walnuts,scrambled eggs,1
+english walnuts,baker's broma,1
+english walnuts,cracked wheat,1
+iced cucumbers,petits bouchees,1
+scrambled eggs,large lobster,1
+scrambled eggs,old jamaica rum,1
+scrambled eggs,calisaya bark,1
+old jamaica rum,large lobster,1
+calisaya bark,large lobster,1
+old jamaica rum,calisaya bark,1
+english walnuts,italian salad,1
+gateau au rhum,potatoes thiers,1
+salt mackerel,bromo seltzer,1
+scrambled eggs,bromo seltzer,1
+codfish balls,chicken hashed,1
+scrambled eggs,"milk ,per glass",1
+salt mackerel,schweizer käse,1
