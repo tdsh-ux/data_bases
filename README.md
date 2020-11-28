@@ -9,6 +9,6 @@ Inicialmente, lemos os dados do servidor do MySQL; em seguida, determinamos a fr
 Então, utilizamos o Dash para a aplicação Web. Usufruimos, por um lado, dos Dash Core Components e dos Dash HTML Components para os gráficos e para o layout geral do aplicativo; por outro, utilizamos JavaScript para a visualização dos nós e das arestas; os detalhes estão (neste notebook)[https://github.com/tdsh-ux/data_bases/blob/main/app.ipynb]. A imagem ilustra o deploy da aplicação, deliberadamente intitulado `the-db-food-app-strikes-back`, que está disponível [aqui](https://the-db-food-app-strikes-back.herokuapp.com/). 
 
 <p align="center"> 
-  <img src="https://github.com/tdsh-ux/data_bases/blob/main/images/app.png" width="350" title="Heroku Application"> 
+  <img src="https://github.com/tdsh-ux/data_bases/blob/main/images/app.png" width="100%" title="Heroku Application"> 
 </p> 
 
