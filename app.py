@@ -103,8 +103,8 @@ app.css.config.serve_locally = True
     # data = json.loads(f.read()) 
 pio.templates.default = "plotly_white" 
 # https://github.com/plotly/dash-cytoscape/blob/master/demos/data/edge-types/cy-style.json
-with open('../heroku_application/cy-style.json') as f: 
-    stylesheet = json.loads(f.read())
+# with open('../heroku_application/cy-style.json') as f: 
+#    stylesheet = json.loads(f.read())
 
 # App 
 app.layout = html.Div([ 
