@@ -1,16 +1,26 @@
-# O que está no menu? 
+# O que está no menu?
 
-Este repositório contém os notebooks e os scripts para a avaliação da disciplina de Banco de Dados, ministrada remotamente na Escola de Matemática Aplicada pelo professor Renato Souza. 
+Este repositório contém os notebooks e os scripts para a avaliação da disciplina de Banco de Dados, ministrada remotamente na Escola de Matemática Aplicada pelo professor Renato Souza.
 
-Dando continuação ao trabalho iniciado [neste repositório](https://github.com/tdsh-ux/dataBases) (em que podem ser encontradas as descrições das bases de dados e como inseri-las em um servidor MySQL através do Python; os scripts, no entanto, para ler os dados estão [nesta pasta](https://github.com/tdsh-ux/data_bases/tree/main/RScriptsCleaning); para inseri-los no servidor local do SQL, use [este notebook](https://github.com/tdsh-ux/data_bases/blob/main/dumpScript.ipynb)), buscamos, aqui, gerar e fazer o deploy de uma aplicação contendo uma visualização em grafo do banco de dados. 
+Dando continuação ao trabalho iniciado [neste repositório](https://github.com/tdsh-ux/dataBases) (em que podem ser encontradas as descrições das bases de dados e como inseri-las em um servidor MySQL através do Python; os scripts, no entanto, para ler os dados estão [nesta pasta](https://github.com/tdsh-ux/data_bases/tree/main/RScriptsCleaning); para inseri-los no servidor local do SQL, use [este notebook](https://github.com/tdsh-ux/data_bases/blob/main/dumpScript.ipynb)), buscamos, aqui, gerar e fazer o deploy de uma aplicação contendo uma visualização em grafo do banco de dados, cujo modelo físico está na figura seguinte. 
 
-Inicialmente, lemos os dados do servidor do MySQL; em seguida, determinamos a frequência com que cada par de pratos aparece em um menu e geramos a tabela para o grafo. Os detalhes estão [neste notebook](https://github.com/tdsh-ux/data_bases/blob/main/read_data.ipynb). 
+<p align="center">
+  <img src="https://github.com/tdsh-ux/data_bases/blob/main/images/physicalModel.jpeg" width="100%" title="Physical Model">
+</p>
 
-Então, utilizamos o Dash para a aplicação Web. Usufruimos, por um lado, dos Dash Core Components e dos Dash HTML Components para os gráficos e para o layout geral do aplicativo; por outro, utilizamos JavaScript para a visualização dos nós e das arestas; os detalhes estão [neste notebook](https://github.com/tdsh-ux/data_bases/blob/main/app.ipynb). A imagem ilustra o deploy da aplicação, deliberadamente intitulado `the-db-food-app-strikes-back`, que está disponível [aqui](https://the-db-food-app-strikes-back.herokuapp.com/). 
+Inicialmente, lemos os dados do servidor do MySQL; em seguida, determinamos a frequência com que cada par de pratos aparece em um menu e geramos a tabela para o grafo. Os detalhes estão [neste notebook](https://github.com/tdsh-ux/data_bases/blob/main/read_data.ipynb).
 
-<p align="center"> 
-  <img src="https://github.com/tdsh-ux/data_bases/blob/main/images/app.png" width="100%" title="Heroku Application"> 
-</p> 
+Então, utilizamos o Dash para a aplicação Web. Usufruimos, por um lado, dos Dash Core Components e dos Dash HTML Components para os gráficos e para o layout geral do aplicativo; por outro, utilizamos JavaScript para a visualização dos nós e das arestas; os detalhes estão [neste notebook](https://github.com/tdsh-ux/data_bases/blob/main/app.ipynb). A imagem ilustra o deploy da aplicação, deliberadamente intitulado `the-db-food-app-strikes-back`, que está disponível [aqui](https://the-db-food-app-strikes-back.herokuapp.com/).
+
+<p align="center">
+  <img src="https://github.com/tdsh-ux/data_bases/blob/main/images/app.png" width="100%" title="Heroku Application">
+</p>
+
+Alguns pratos são ubíquos: resistem ao tempo e são indiferentes ao espaço. Ovos mexidos são um acompanhamento presente em praticamente qualquer restaurante; usualmente é acompanhado de ovos com baicon, embora, às vezes, se oferça baicon com ovos; estes acompanhamentos, no entanto, são disjuntos. Em adição, alguns alimentos usuais, como água, apresentam nomes com pomposidade em situações peculiares: temos a água imperial; a água de congresso, parceira perene do uísque escocês; e a água de Hathorn, com sua vizinhança de pratos franceses. Além disso, a salada italiana é vendida com a batata francesa e o Stilton inglês; os cardápios transcendem fronteiras, e a globalização é perpétua.
+
+Em uma época sem McDonalds e sem Burger King, hambúrgueres não compunham as refeições principais dos indivíduos (hoje o fazem!); contudo, temos, em nossos cardápios, a [hamburg chicken](https://en.wikipedia.org/wiki/Hamburg_chicken) é oferecida com tomate seco e com Consommê frio. Ora, a despeito disso, os hoje vetustos cidadãos podiam desfrutar das miríficas batatas fritas; no lugar do irresistível sanduíche, entretanto, havia omelete (e ovos mexidos!). Para os fissurados em açúcar, havia também o que comer: os tarteletes de maçã, geralmente servidos com azeitonas secas e com conhaque, estão no menu; torta de amora, acompanhada de nozes inglesas, também; para os clientes de paladar extravagante, tapioca de pêssego constava como alternativa.
+
+E o que temos no menu? Entre restaurantes americanos que servem batatas francesas com acompanhamentos italianos; tortas doces acompanhadas de conhaque; e ovos com baicons e baicon com ovos, os hábitos alimentares são resilientes ao relógio. Cardápios não são influenciados por guerras, muros ou pandemias; ovos mexidos e pratos preenchidos com nomes pomposos ainda permeimam nossos catálogos. É isso que temos no menu.
 
 # Diretórios
 
