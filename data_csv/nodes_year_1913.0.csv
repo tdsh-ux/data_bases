@@ -1,124 +1,124 @@
-name_x,name_y,count
-half cantaloupe,stewed rhubarb,10
-buttered toast,stewed rhubarb,7
-blackberry pie,half cantaloupe,7
-salt mackerel,"gin, plymouth",5
-cream of wheat,poast toasties,4
-blackberry pie,stewed rhubarb,4
-milk crackers,buttered toast,4
-scrambled eggs,milk crackers,3
-stuffed tomato,crab cocktail,3
-scrambled eggs,buttered toast,3
-stewed rhubarb,peach ice cream,3
-english walnuts,assmannshaeuser,2
-english walnuts,black and white,2
-stewed rhubarb,"orange, whole",2
-buttered toast,"orange, whole",2
-crab cocktail,c & b gherkins,2
-stuffed olives,crab cocktail,2
-stuffed olives,c & b gherkins,2
-crab cocktail,"omelet, cheese",2
-stuffed olives,"omelet, cheese",2
-stuffed tomato,stuffed olives,2
-stuffed tomato,c & b gherkins,2
-"omelet, cheese",c & b gherkins,2
-stuffed tomato,"omelet, cheese",2
-blackberry pie,jelly omelette,2
-stewed rhubarb,jelly omelette,2
-stewed rhubarb,"salad, cucumber",2
-blackberry pie,peach tapioca,2
-half cantaloupe,buttered toast,2
-half cantaloupe,peach ice cream,2
-stewed rhubarb,king tangerine,1
-stewed rhubarb,florida orange,1
-florida orange,king tangerine,1
-liptauer cheese,salad fantasie,1
-salt mackerel,cream of wheat,1
-salt mackerel,eggs with bacon,1
-eggs with bacon,cream of wheat,1
-salted pecans,stuffed olives,1
-"prunes, stewed",potage lamballe,1
-"prunes, stewed",orange sherbet,1
-orange sherbet,potage lamballe,1
-dull prydeinig,newydd gloron,1
-buttered toast,banana fritters,1
-assmannshaeuser,black and white,1
-"chablis, white","salad, pontin",1
-blue point stew,"chablis, white",1
-blue point stew,"potatoes, baked",1
-blue point stew,"salad, pontin",1
-blue point stew,calisaya bark,1
-"potatoes, baked","chablis, white",1
-"potatoes, baked","salad, pontin",1
-calisaya bark,"chablis, white",1
-calisaya bark,"potatoes, baked",1
-calisaya bark,"salad, pontin",1
-salt mackerel,english bloater,1
-salt mackerel,virginia bacon,1
-virginia bacon,english bloater,1
-zaza cocktail,salade marietta,1
-"pommard, 1893",zaza cocktail,1
-scrambled eggs,"orange, whole",1
-milk crackers,"orange, whole",1
-scrambled eggs,jelly omelette,1
-pineapple pie,vanilla pudding,1
-"chicken, half",stuffed olives,1
-salt mackerel,puree of peas,1
-salt mackerel,roast chicken,1
-roast chicken,puree of peas,1
-salt mackerel,kidneys broiled,1
-puree of peas,craigwood rye,1
-salt mackerel,craigwood rye,1
-roast chicken,craigwood rye,1
-kidneys broiled,puree of peas,1
-kidneys broiled,roast chicken,1
-kidneys broiled,craigwood rye,1
-crab cocktail,"potatoes, baked",1
-stuffed olives,"potatoes, baked",1
-"potatoes, baked",c & b gherkins,1
-"potatoes, baked","omelet, cheese",1
-stuffed tomato,"potatoes, baked",1
-congress water,crab cocktail,1
-congress water,stuffed olives,1
-congress water,c & b gherkins,1
-congress water,"omelet, cheese",1
-congress water,"potatoes, baked",1
-congress water,stuffed tomato,1
-broiled poussin,rice with curry,1
-florida orange,broiled poussin,1
-florida orange,rice with curry,1
-blackberry pie,buttered toast,1
-corn on the cob,stewed rhubarb,1
-corn on the cob,half cantaloupe,1
-peach tapioca,half cantaloupe,1
-blackberry pie,lettuce & egg,1
-half cantaloupe,lettuce & egg,1
-cold consomme,chocolate torte,1
-cold consomme,stuffed olives,1
-chocolate torte,stuffed olives,1
-cold consomme,buttered toast,1
-chocolate torte,buttered toast,1
-buttered toast,stuffed olives,1
-chateau lafitte,cold consomme,1
-chateau lafitte,chocolate torte,1
-chateau lafitte,stuffed olives,1
-chateau lafitte,buttered toast,1
-corn on the cob,cream of wheat,1
-stewed rhubarb,broiled poussin,1
-congress water,hors d'oeuvres,1
-cr√®me vanille,ch√¢teau lafite,1
-cr√®me vanille,mercier et cie,1
-ch√¢teau lafite,mercier et cie,1
-"chablis, white",dubonnet wine,1
-"chablis, white",black and white,1
-black and white,dubonnet wine,1
-rock perfectos,"omelet, jelly",1
-salt mackerel,rock perfectos,1
-"omelet, cheese",rock perfectos,1
-salt mackerel,"omelet, jelly",1
-salt mackerel,"omelet, cheese",1
-"omelet, cheese","omelet, jelly",1
-scrambled eggs,"salad, pontin",1
-scrambled eggs,half cantaloupe,1
-half cantaloupe,"salad, pontin",1
-filet √† l≈ìuf,pommes saut√©es,1
+name_x,name_y,count
+half cantaloupe,stewed rhubarb,10
+buttered toast,stewed rhubarb,7
+blackberry pie,half cantaloupe,7
+salt mackerel,"gin, plymouth",5
+cream of wheat,poast toasties,4
+blackberry pie,stewed rhubarb,4
+milk crackers,buttered toast,4
+scrambled eggs,milk crackers,3
+stuffed tomato,crab cocktail,3
+scrambled eggs,buttered toast,3
+stewed rhubarb,peach ice cream,3
+english walnuts,assmannshaeuser,2
+english walnuts,black and white,2
+stewed rhubarb,"orange, whole",2
+buttered toast,"orange, whole",2
+crab cocktail,c & b gherkins,2
+stuffed olives,crab cocktail,2
+stuffed olives,c & b gherkins,2
+crab cocktail,"omelet, cheese",2
+stuffed olives,"omelet, cheese",2
+stuffed tomato,stuffed olives,2
+stuffed tomato,c & b gherkins,2
+"omelet, cheese",c & b gherkins,2
+stuffed tomato,"omelet, cheese",2
+blackberry pie,jelly omelette,2
+stewed rhubarb,jelly omelette,2
+stewed rhubarb,"salad, cucumber",2
+blackberry pie,peach tapioca,2
+half cantaloupe,buttered toast,2
+half cantaloupe,peach ice cream,2
+stewed rhubarb,king tangerine,1
+stewed rhubarb,florida orange,1
+florida orange,king tangerine,1
+liptauer cheese,salad fantasie,1
+salt mackerel,cream of wheat,1
+salt mackerel,eggs with bacon,1
+eggs with bacon,cream of wheat,1
+salted pecans,stuffed olives,1
+"prunes, stewed",potage lamballe,1
+"prunes, stewed",orange sherbet,1
+orange sherbet,potage lamballe,1
+dull prydeinig,newydd gloron,1
+buttered toast,banana fritters,1
+assmannshaeuser,black and white,1
+"chablis, white","salad, pontin",1
+blue point stew,"chablis, white",1
+blue point stew,"potatoes, baked",1
+blue point stew,"salad, pontin",1
+blue point stew,calisaya bark,1
+"potatoes, baked","chablis, white",1
+"potatoes, baked","salad, pontin",1
+calisaya bark,"chablis, white",1
+calisaya bark,"potatoes, baked",1
+calisaya bark,"salad, pontin",1
+salt mackerel,english bloater,1
+salt mackerel,virginia bacon,1
+virginia bacon,english bloater,1
+zaza cocktail,salade marietta,1
+"pommard, 1893",zaza cocktail,1
+scrambled eggs,"orange, whole",1
+milk crackers,"orange, whole",1
+scrambled eggs,jelly omelette,1
+pineapple pie,vanilla pudding,1
+"chicken, half",stuffed olives,1
+salt mackerel,puree of peas,1
+salt mackerel,roast chicken,1
+roast chicken,puree of peas,1
+salt mackerel,kidneys broiled,1
+puree of peas,craigwood rye,1
+salt mackerel,craigwood rye,1
+roast chicken,craigwood rye,1
+kidneys broiled,puree of peas,1
+kidneys broiled,roast chicken,1
+kidneys broiled,craigwood rye,1
+crab cocktail,"potatoes, baked",1
+stuffed olives,"potatoes, baked",1
+"potatoes, baked",c & b gherkins,1
+"potatoes, baked","omelet, cheese",1
+stuffed tomato,"potatoes, baked",1
+congress water,crab cocktail,1
+congress water,stuffed olives,1
+congress water,c & b gherkins,1
+congress water,"omelet, cheese",1
+congress water,"potatoes, baked",1
+congress water,stuffed tomato,1
+broiled poussin,rice with curry,1
+florida orange,broiled poussin,1
+florida orange,rice with curry,1
+blackberry pie,buttered toast,1
+corn on the cob,stewed rhubarb,1
+corn on the cob,half cantaloupe,1
+peach tapioca,half cantaloupe,1
+blackberry pie,lettuce & egg,1
+half cantaloupe,lettuce & egg,1
+cold consomme,chocolate torte,1
+cold consomme,stuffed olives,1
+chocolate torte,stuffed olives,1
+cold consomme,buttered toast,1
+chocolate torte,buttered toast,1
+buttered toast,stuffed olives,1
+chateau lafitte,cold consomme,1
+chateau lafitte,chocolate torte,1
+chateau lafitte,stuffed olives,1
+chateau lafitte,buttered toast,1
+corn on the cob,cream of wheat,1
+stewed rhubarb,broiled poussin,1
+congress water,hors d'oeuvres,1
+crËme vanille,ch‚teau lafite,1
+crËme vanille,mercier et cie,1
+ch‚teau lafite,mercier et cie,1
+"chablis, white",dubonnet wine,1
+"chablis, white",black and white,1
+black and white,dubonnet wine,1
+rock perfectos,"omelet, jelly",1
+salt mackerel,rock perfectos,1
+"omelet, cheese",rock perfectos,1
+salt mackerel,"omelet, jelly",1
+salt mackerel,"omelet, cheese",1
+"omelet, cheese","omelet, jelly",1
+scrambled eggs,"salad, pontin",1
+scrambled eggs,half cantaloupe,1
+half cantaloupe,"salad, pontin",1
+filet ‡ lúuf,pommes sautÈes,1

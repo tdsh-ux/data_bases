@@ -1,75 +1,75 @@
-name_x,name_y,count
-apple tartlets,stuffed olives,68
-prunelle brandy,apple tartlets,42
-prunelle brandy,stuffed olives,40
-"omelet, plain",small beefsteak,13
-deviled crabs,buttered toast,10
-scrambled eggs,deviled crabs,10
-scrambled eggs,buttered toast,9
-"omelet, plain",eggs with bacon,7
-stuffed olives,cup clam broth,5
-apple tartlets,cup clam broth,5
-small beefsteak,eggs with bacon,4
-small beefsteak,orange fritters,4
-small beefsteak,endive with egg,3
-roast chicken,parfait nougat,2
-apple tartlets,potage lamballe,2
-stuffed olives,potage lamballe,2
-"omelet, plain",endive with egg,2
-prunelle brandy,cup clam broth,2
-small beefsteak,"cazanove, 1906",2
-sloe gin glass,"cazanove, 1906",1
-"omelet, plain",1912 chat uquem,1
-endive with egg,orange fritters,1
-small beefsteak,1912 chat uquem,1
-"omelet, plain","pommard, 1909",1
-sloe gin glass,"pommard, 1909",1
-"pommard, 1909","cazanove, 1906",1
-small beefsteak,sloe gin glass,1
-small beefsteak,"pommard, 1909",1
-"omelet, plain","cazanove, 1906",1
-"omelet, plain",sloe gin glass,1
-maryland club,cup clam broth,1
-banana fritters,"margauz, 1909",1
-buttered toast,"margauz, 1909",1
-mutton chops ,"margauz, 1909",1
-banana fritters,mutton chops ,1
-buttered toast,banana fritters,1
-buttered toast,mutton chops ,1
-buttered toast,salted pecans,1
-stuffed olives,"coca, per pot",1
-potage lamballe,"coca, per pot",1
-apple tartlets,"coca, per pot",1
-buttered toast,stewed rhubarb,1
-apple tartlets,consomme fedora,1
-stuffed olives,consomme fedora,1
-prunelle brandy,consomme fedora,1
-apple tartlets,new cauliflower,1
-stuffed olives,hassed browned,1
-"cazanove, 1906",1907 chat yquem,1
-small beefsteak,1907 chat yquem,1
-small beefsteak,"lagrange, 1907",1
-meringue glacee,young american,1
-small beefsteak,meringue glacee,1
-small beefsteak,young american,1
-deviled crabs,cup clam broth,1
-scrambled eggs,cup clam broth,1
-buttered toast,cup clam broth,1
-stuffed olives,"artichokes, hot",1
-cup clam broth,"artichokes, hot",1
-apple tartlets,"artichokes, hot",1
-stuffed olives,new cauliflower,1
-"omelet, plain",orange fritters,1
-stuffed olives,oatmeal muffins,1
-apple tartlets,oatmeal muffins,1
-prunelle brandy,oatmeal muffins,1
-bacon with eggs,stuffed olives,1
-stuffed tomato,phila ice cream,1
-stuffed tomato,coffee parfait,1
-coffee parfait,phila ice cream,1
-early june peas,eggs with bacon,1
-stuffed olives,banana fritters,1
-port du saint,endive with egg,1
-small beefsteak,port du saint,1
-"omelet, plain",port du saint,1
-small beefsteak,mutton chops ,1
+name_x,name_y,count
+apple tartlets,stuffed olives,68
+prunelle brandy,apple tartlets,42
+prunelle brandy,stuffed olives,40
+"omelet, plain",small beefsteak,13
+scrambled eggs,deviled crabs,10
+deviled crabs,buttered toast,10
+scrambled eggs,buttered toast,9
+"omelet, plain",eggs with bacon,7
+stuffed olives,cup clam broth,5
+apple tartlets,cup clam broth,5
+small beefsteak,eggs with bacon,4
+small beefsteak,orange fritters,4
+small beefsteak,endive with egg,3
+small beefsteak,"cazanove, 1906",2
+"omelet, plain",endive with egg,2
+roast chicken,parfait nougat,2
+stuffed olives,potage lamballe,2
+apple tartlets,potage lamballe,2
+prunelle brandy,cup clam broth,2
+meringue glacee,young american,1
+small beefsteak,meringue glacee,1
+small beefsteak,young american,1
+deviled crabs,cup clam broth,1
+scrambled eggs,cup clam broth,1
+buttered toast,cup clam broth,1
+stuffed olives,"artichokes, hot",1
+cup clam broth,"artichokes, hot",1
+apple tartlets,"artichokes, hot",1
+stuffed olives,new cauliflower,1
+apple tartlets,new cauliflower,1
+stuffed olives,oatmeal muffins,1
+apple tartlets,oatmeal muffins,1
+prunelle brandy,oatmeal muffins,1
+bacon with eggs,stuffed olives,1
+stuffed tomato,phila ice cream,1
+stuffed tomato,coffee parfait,1
+coffee parfait,phila ice cream,1
+maryland club,cup clam broth,1
+stuffed olives,hassed browned,1
+early june peas,eggs with bacon,1
+stuffed olives,banana fritters,1
+port du saint,endive with egg,1
+small beefsteak,port du saint,1
+"omelet, plain",port du saint,1
+small beefsteak,mutton chops ,1
+"omelet, plain",orange fritters,1
+"omelet, plain","pommard, 1909",1
+"omelet, plain",sloe gin glass,1
+"omelet, plain","cazanove, 1906",1
+small beefsteak,"pommard, 1909",1
+small beefsteak,sloe gin glass,1
+"pommard, 1909","cazanove, 1906",1
+sloe gin glass,"pommard, 1909",1
+sloe gin glass,"cazanove, 1906",1
+endive with egg,orange fritters,1
+"cazanove, 1906",1907 chat yquem,1
+"omelet, plain",1912 chat uquem,1
+banana fritters,"margauz, 1909",1
+buttered toast,"margauz, 1909",1
+mutton chops ,"margauz, 1909",1
+banana fritters,mutton chops ,1
+buttered toast,banana fritters,1
+buttered toast,mutton chops ,1
+buttered toast,salted pecans,1
+small beefsteak,1912 chat uquem,1
+stuffed olives,"coca, per pot",1
+potage lamballe,"coca, per pot",1
+small beefsteak,1907 chat yquem,1
+apple tartlets,"coca, per pot",1
+buttered toast,stewed rhubarb,1
+small beefsteak,"lagrange, 1907",1
+apple tartlets,consomme fedora,1
+stuffed olives,consomme fedora,1
+prunelle brandy,consomme fedora,1

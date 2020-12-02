@@ -1,105 +1,105 @@
-name_x,name_y,count
-scrambled eggs,salt mackerel,4
-cracked wheat,salt mackerel,4
-salt mackerel,eggs with bacon,3
-"omelet, plain",tomato chutney,2
-salt mackerel,consomme (cold),1
-salt mackerel,virginia bacon,1
-salt mackerel,"salad, chicken",1
-salt mackerel,kentucky toddy,1
-salt mackerel,st croix flip,1
-salt mackerel,brandy crusta,1
-consomme (cold),kentucky toddy,1
-consomme (cold),st croix flip,1
-consomme (cold),brandy crusta,1
-virginia bacon,consomme (cold),1
-virginia bacon,kentucky toddy,1
-virginia bacon,st croix flip,1
-virginia bacon,brandy crusta,1
-"salad, chicken",consomme (cold),1
-"salad, chicken",virginia bacon,1
-"salad, chicken",kentucky toddy,1
-"salad, chicken",st croix flip,1
-"salad, chicken",brandy crusta,1
-kentucky toddy,st croix flip,1
-kentucky toddy,brandy crusta,1
-st croix flip,brandy crusta,1
-scrambled eggs,eggs with bacon,1
-deviled crabs,lobster stuffed,1
-lobster stuffed,fancy puddings,1
-deviled crabs,fancy puddings,1
-anheuser busch,deviled crabs,1
-english walnuts,congress water,1
-fried haddock,cheese omelete,1
-scrambled eggs,fried haddock,1
-scrambled eggs,cheese omelete,1
-egg plant fried,creamed spinach,1
-appetit salad,egg plant fried,1
-appetit salad,creamed spinach,1
-egg plant fried,"boonekamp, a e",1
-egg plant fried,plain lemonade,1
-egg plant fried,old roxbury rye,1
-creamed spinach,"boonekamp, a e",1
-creamed spinach,plain lemonade,1
-appetit salad,"boonekamp, a e",1
-appetit salad,plain lemonade,1
-appetit salad,old roxbury rye,1
-lemp's st louis,egg plant fried,1
-lemp's st louis,creamed spinach,1
-lemp's st louis,appetit salad,1
-old roxbury rye,creamed spinach,1
-"boonekamp, a e",plain lemonade,1
-lemp's st louis,"boonekamp, a e",1
-lemp's st louis,plain lemonade,1
-lemp's st louis,old roxbury rye,1
-old roxbury rye,"boonekamp, a e",1
-old roxbury rye,plain lemonade,1
-salt mackerel,eggs scrambled,1
-salt mackerel,congress water,1
-congress water,eggs scrambled,1
-scrambled eggs,salted pecans,1
-salt mackerel,deviled crabs,1
-salt mackerel,blackberry pie,1
-blackberry pie,deviled crabs,1
-volail le reine,nach theodora,1
-sherry golden,blythe w branch,1
-scrambled eggs,"omelet, plain",1
-cracked wheat,scrambled eggs,1
-cracked wheat,"omelet, plain",1
-blackberry pie,cold consomme,1
-english walnuts,cold consomme,1
-english walnuts,blackberry pie,1
-"lamb chops, 2",new beets salad,1
-chateau lafitte,schwarzberger,1
-scrambled eggs,port cobblers,1
-scrambled eggs,potatoes fried,1
-salt mackerel,codfish balls,1
-cracked wheat,codfish balls,1
-roast beef cold,raisins or figs,1
-roast beef cold,"pol roger, dry",1
-roast beef cold,g v ch giscours,1
-roast beef cold,old tawny port,1
-english walnuts,roast beef cold,1
-english walnuts,raisins or figs,1
-english walnuts,"pol roger, dry",1
-english walnuts,chateau lafitte,1
-english walnuts,g v ch giscours,1
-english walnuts,old tawny port,1
-english walnuts,pilsener beer,1
-raisins or figs,"pol roger, dry",1
-raisins or figs,g v ch giscours,1
-raisins or figs,old tawny port,1
-chateau lafitte,roast beef cold,1
-pilsener beer,roast beef cold,1
-chateau lafitte,raisins or figs,1
-pilsener beer,raisins or figs,1
-"pol roger, dry",g v ch giscours,1
-"pol roger, dry",old tawny port,1
-chateau lafitte,"pol roger, dry",1
-chateau lafitte,g v ch giscours,1
-chateau lafitte,old tawny port,1
-chateau lafitte,pilsener beer,1
-g v ch giscours,old tawny port,1
-pilsener beer,"pol roger, dry",1
-pilsener beer,g v ch giscours,1
-pilsener beer,old tawny port,1
+name_x,name_y,count
+scrambled eggs,salt mackerel,4
+cracked wheat,salt mackerel,4
+salt mackerel,eggs with bacon,3
+"omelet, plain",tomato chutney,2
+salt mackerel,consomme (cold),1
+salt mackerel,virginia bacon,1
+salt mackerel,"salad, chicken",1
+salt mackerel,kentucky toddy,1
+salt mackerel,st croix flip,1
+salt mackerel,brandy crusta,1
+consomme (cold),kentucky toddy,1
+consomme (cold),st croix flip,1
+consomme (cold),brandy crusta,1
+virginia bacon,consomme (cold),1
+virginia bacon,kentucky toddy,1
+virginia bacon,st croix flip,1
+virginia bacon,brandy crusta,1
+"salad, chicken",consomme (cold),1
+"salad, chicken",virginia bacon,1
+"salad, chicken",kentucky toddy,1
+"salad, chicken",st croix flip,1
+"salad, chicken",brandy crusta,1
+kentucky toddy,st croix flip,1
+kentucky toddy,brandy crusta,1
+st croix flip,brandy crusta,1
+scrambled eggs,eggs with bacon,1
+deviled crabs,lobster stuffed,1
+lobster stuffed,fancy puddings,1
+deviled crabs,fancy puddings,1
+anheuser busch,deviled crabs,1
+english walnuts,congress water,1
+fried haddock,cheese omelete,1
+scrambled eggs,fried haddock,1
+scrambled eggs,cheese omelete,1
+egg plant fried,creamed spinach,1
+appetit salad,egg plant fried,1
+appetit salad,creamed spinach,1
+egg plant fried,"boonekamp, a e",1
+egg plant fried,plain lemonade,1
+egg plant fried,old roxbury rye,1
+creamed spinach,"boonekamp, a e",1
+creamed spinach,plain lemonade,1
+appetit salad,"boonekamp, a e",1
+appetit salad,plain lemonade,1
+appetit salad,old roxbury rye,1
+lemp's st louis,egg plant fried,1
+lemp's st louis,creamed spinach,1
+lemp's st louis,appetit salad,1
+old roxbury rye,creamed spinach,1
+"boonekamp, a e",plain lemonade,1
+lemp's st louis,"boonekamp, a e",1
+lemp's st louis,plain lemonade,1
+lemp's st louis,old roxbury rye,1
+old roxbury rye,"boonekamp, a e",1
+old roxbury rye,plain lemonade,1
+salt mackerel,eggs scrambled,1
+salt mackerel,congress water,1
+congress water,eggs scrambled,1
+scrambled eggs,salted pecans,1
+salt mackerel,deviled crabs,1
+salt mackerel,blackberry pie,1
+blackberry pie,deviled crabs,1
+volail le reine,nach theodora,1
+sherry golden,blythe w branch,1
+scrambled eggs,"omelet, plain",1
+cracked wheat,scrambled eggs,1
+cracked wheat,"omelet, plain",1
+blackberry pie,cold consomme,1
+english walnuts,cold consomme,1
+english walnuts,blackberry pie,1
+"lamb chops, 2",new beets salad,1
+chateau lafitte,schwarzberger,1
+scrambled eggs,port cobblers,1
+scrambled eggs,potatoes fried,1
+salt mackerel,codfish balls,1
+cracked wheat,codfish balls,1
+roast beef cold,raisins or figs,1
+roast beef cold,"pol roger, dry",1
+roast beef cold,g v ch giscours,1
+roast beef cold,old tawny port,1
+english walnuts,roast beef cold,1
+english walnuts,raisins or figs,1
+english walnuts,"pol roger, dry",1
+english walnuts,chateau lafitte,1
+english walnuts,g v ch giscours,1
+english walnuts,old tawny port,1
+english walnuts,pilsener beer,1
+raisins or figs,"pol roger, dry",1
+raisins or figs,g v ch giscours,1
+raisins or figs,old tawny port,1
+chateau lafitte,roast beef cold,1
+pilsener beer,roast beef cold,1
+chateau lafitte,raisins or figs,1
+pilsener beer,raisins or figs,1
+"pol roger, dry",g v ch giscours,1
+"pol roger, dry",old tawny port,1
+chateau lafitte,"pol roger, dry",1
+chateau lafitte,g v ch giscours,1
+chateau lafitte,old tawny port,1
+chateau lafitte,pilsener beer,1
+g v ch giscours,old tawny port,1
+pilsener beer,"pol roger, dry",1
+pilsener beer,g v ch giscours,1
+pilsener beer,old tawny port,1
