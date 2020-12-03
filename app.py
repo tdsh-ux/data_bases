@@ -5,7 +5,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output
 import dash_cytoscape as cyto 
-import nx_graph 
+import nx_express 
 import plotly.io as pio 
 
 import pandas as pd 
@@ -17,10 +17,10 @@ import plotly.express as px
 
 # from IPython.display import Javascript 
 
-df = pd.read_csv("../data_csv/table.csv") 
+df = pd.read_csv("./data_csv/table.csv") 
 df.head() 
 
-df_year = pd.read_csv("../data_csv/scatter_data.csv").sort_values(by = "year") 
+df_year = pd.read_csv("./data_csv/scatter_data.csv").sort_values(by = "year") 
 df_year.head() 
 
 dish_names = df["name_x"] 
@@ -124,7 +124,11 @@ app.layout = html.Div([
     ], style = {"width": "32%", "display": "inline-block", "float": "right"}) 
     ]), 
     html.Div(children=[ 
-        nx_graph.NX(id = "cytoscape", data = cytoscape_data())  
+        nx_express.nxExpress(id = "cytoscape", data = cytoscape_data(),
+		node_props = {"n_radius": 14, "color_node": "lightblue", "n_size_range": [1, 9]},
+		edge_props = {"e_width": "value"},
+		node_label = {"fontWeight": "Bold", "fontFamily": "Serif", "fontSize": 14},
+		dims = {"width": 358, "height": 358}) 
     ], style = {"width": "100%", "height": "100%", "float": "center"}), 
     html.Div([ 
         html.Div([
