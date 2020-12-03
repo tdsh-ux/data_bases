@@ -73,7 +73,9 @@ E o que temos no menu? Entre restaurantes americanos que servem batatas francesa
  ┃ ┣ 📜sponsor.sql\
  ┃ ┗ 📜venue.sql\
  ┣ 📂images\
- ┃ ┗ 📜app.png\
+ ┃ ┣ 📜app.png\ 
+ ┃ ┗ 📜physicalModel.jpeg\    
+ ┃
  ┣ 📂RScriptsCleaning\
  ┃ ┣ 📜dishScript.R\
  ┃ ┣ 📜menuScript.R\
